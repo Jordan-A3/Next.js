@@ -6,4 +6,4 @@ Vele vamos ver :
 - Geração estática incremental;
 - Fallback para novos dados;
 
-https://youtu.be/u1kCtkVR7cE
+Vídeo base: https://youtu.be/u1kCtkVR7cE
